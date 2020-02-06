@@ -1,0 +1,19 @@
+.images {
+  padding: 20px;
+}
+
+.XinyuHuang {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  font-weight: bold;
+  padding: 25px 0 25px 0;
+  font-size: 40px;
+}
+
+.NevBar {
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+  font-size: 35px;
+}
